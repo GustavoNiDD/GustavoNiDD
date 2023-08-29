@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Garcia Santana</h1>
-<h3 align="center">Full developer</h3>
+<h3 align="center">Full Stack developer</h3>
 
 - 🌱 I'm constantly learning **Java, Javascript, CSS, HTML, MySQL, Node.js, Spring**
 
