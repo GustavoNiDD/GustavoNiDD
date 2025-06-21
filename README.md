@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, Javascript, MySQL, TCG**
 
-- 📫 How to reach me **guguti023@gmail.com**
+- 📫 How to reach me **gustavodevprofissional@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
